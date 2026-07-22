@@ -1,0 +1,20 @@
+{
+"name":"Raaghu's Choco Bites",
+"short_name":"Choco Bites",
+"description":"Premium handmade chocolates",
+"start_url":"index.html",
+"display":"standalone",
+"background_color":"#fff8f2",
+"theme_color":"#5a2d22",
+
+"icons":[
+
+{
+"src":"images/logo.jpeg",
+"sizes":"512x512",
+"type":"image/jpeg"
+}
+
+]
+
+}
